@@ -1,0 +1,12 @@
+Input : PDB
+Input test: 4gxy.pdb
+Output : ScoringValues
+plot: True
+plot : True
+
+Input : PDB
+Input test: 4gxy.pdb
+Output : ScoringValues
+plot: True
+plot : True
+

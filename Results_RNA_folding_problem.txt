@@ -1,0 +1,9 @@
+4p5j.pdb file execution time  : 0.1s
+6me0.pdb file execution time  : 13.7s
+2jyh.pdb file execution time  : 4.3s
+1a4d.pdb file execution time  : 0.0s
+2jyf.pdb file execution time  : 16.0s
+1a3m.pdb file execution time  : 6.2s
+
+Execution time script 1 : 40.5s
+Execution time script 2 : 31.9s
